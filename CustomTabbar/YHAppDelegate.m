@@ -38,7 +38,7 @@
     home.title = @"首页";
     
     SecondViewController *list = [[SecondViewController alloc] init];
-    list.title = @"订单";
+    list.title = @"推荐";
     
     ThirdViewController *search = [[ThirdViewController alloc] init];
     search.title = @"搜索";
