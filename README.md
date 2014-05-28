@@ -5,7 +5,7 @@ CustomTabBar是一款自定义的Tabbar，继承UITabbarViewController，可自�
 
 
 ##截图
-<img  width="320" height="480" src="https://raw.githubusercontent.com/yhjiang/CustomTabBar/master/ScreenShot1.png"/> 
+<img  width="320" height="480" src="https://github.com/yhjiang/CustomTabBar/blob/master/ScreenShot.png"/> 
 
 
 ##用法
