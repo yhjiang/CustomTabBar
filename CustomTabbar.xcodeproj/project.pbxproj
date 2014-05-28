@@ -19,6 +19,15 @@
 		C673FCBB1935C1C200CF319C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C673FCA31935C1C200CF319C /* UIKit.framework */; };
 		C673FCC31935C1C200CF319C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C673FCC11935C1C200CF319C /* InfoPlist.strings */; };
 		C673FCC51935C1C200CF319C /* CustomTabbarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C673FCC41935C1C200CF319C /* CustomTabbarTests.m */; };
+		C673FCD11935C63C00CF319C /* YHCustomTabbar.m in Sources */ = {isa = PBXBuildFile; fileRef = C673FCD01935C63C00CF319C /* YHCustomTabbar.m */; };
+		C673FCD51935C7BE00CF319C /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C673FCD31935C7BE00CF319C /* FirstViewController.m */; };
+		C673FCD61935C7BE00CF319C /* FirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C673FCD41935C7BE00CF319C /* FirstViewController.xib */; };
+		C673FCDA1935C7CD00CF319C /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C673FCD81935C7CD00CF319C /* SecondViewController.m */; };
+		C673FCDB1935C7CD00CF319C /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C673FCD91935C7CD00CF319C /* SecondViewController.xib */; };
+		C673FCDF1935C7DA00CF319C /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C673FCDD1935C7DA00CF319C /* ThirdViewController.m */; };
+		C673FCE01935C7DA00CF319C /* ThirdViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C673FCDE1935C7DA00CF319C /* ThirdViewController.xib */; };
+		C673FCE41935C81100CF319C /* FourthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C673FCE21935C81100CF319C /* FourthViewController.m */; };
+		C673FCE51935C81100CF319C /* FourthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C673FCE31935C81100CF319C /* FourthViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +57,20 @@
 		C673FCC01935C1C200CF319C /* CustomTabbarTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CustomTabbarTests-Info.plist"; sourceTree = "<group>"; };
 		C673FCC21935C1C200CF319C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C673FCC41935C1C200CF319C /* CustomTabbarTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomTabbarTests.m; sourceTree = "<group>"; };
+		C673FCCF1935C63C00CF319C /* YHCustomTabbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YHCustomTabbar.h; sourceTree = "<group>"; };
+		C673FCD01935C63C00CF319C /* YHCustomTabbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YHCustomTabbar.m; sourceTree = "<group>"; };
+		C673FCD21935C7BE00CF319C /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		C673FCD31935C7BE00CF319C /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		C673FCD41935C7BE00CF319C /* FirstViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FirstViewController.xib; sourceTree = "<group>"; };
+		C673FCD71935C7CD00CF319C /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		C673FCD81935C7CD00CF319C /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		C673FCD91935C7CD00CF319C /* SecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondViewController.xib; sourceTree = "<group>"; };
+		C673FCDC1935C7DA00CF319C /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		C673FCDD1935C7DA00CF319C /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		C673FCDE1935C7DA00CF319C /* ThirdViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ThirdViewController.xib; sourceTree = "<group>"; };
+		C673FCE11935C81100CF319C /* FourthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourthViewController.h; sourceTree = "<group>"; };
+		C673FCE21935C81100CF319C /* FourthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourthViewController.m; sourceTree = "<group>"; };
+		C673FCE31935C81100CF319C /* FourthViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FourthViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,8 +130,21 @@
 		C673FCA51935C1C200CF319C /* CustomTabbar */ = {
 			isa = PBXGroup;
 			children = (
+				C673FCCE1935C5FE00CF319C /* YHCustomTabbar */,
 				C673FCAE1935C1C200CF319C /* YHAppDelegate.h */,
 				C673FCAF1935C1C200CF319C /* YHAppDelegate.m */,
+				C673FCD21935C7BE00CF319C /* FirstViewController.h */,
+				C673FCD31935C7BE00CF319C /* FirstViewController.m */,
+				C673FCD41935C7BE00CF319C /* FirstViewController.xib */,
+				C673FCD71935C7CD00CF319C /* SecondViewController.h */,
+				C673FCD81935C7CD00CF319C /* SecondViewController.m */,
+				C673FCD91935C7CD00CF319C /* SecondViewController.xib */,
+				C673FCDC1935C7DA00CF319C /* ThirdViewController.h */,
+				C673FCDD1935C7DA00CF319C /* ThirdViewController.m */,
+				C673FCDE1935C7DA00CF319C /* ThirdViewController.xib */,
+				C673FCE11935C81100CF319C /* FourthViewController.h */,
+				C673FCE21935C81100CF319C /* FourthViewController.m */,
+				C673FCE31935C81100CF319C /* FourthViewController.xib */,
 				C673FCB11935C1C200CF319C /* Images.xcassets */,
 				C673FCA61935C1C200CF319C /* Supporting Files */,
 			);
@@ -142,6 +178,15 @@
 				C673FCC11935C1C200CF319C /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C673FCCE1935C5FE00CF319C /* YHCustomTabbar */ = {
+			isa = PBXGroup;
+			children = (
+				C673FCCF1935C63C00CF319C /* YHCustomTabbar.h */,
+				C673FCD01935C63C00CF319C /* YHCustomTabbar.m */,
+			);
+			name = YHCustomTabbar;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -220,7 +265,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C673FCDB1935C7CD00CF319C /* SecondViewController.xib in Resources */,
 				C673FCAA1935C1C200CF319C /* InfoPlist.strings in Resources */,
+				C673FCD61935C7BE00CF319C /* FirstViewController.xib in Resources */,
+				C673FCE01935C7DA00CF319C /* ThirdViewController.xib in Resources */,
+				C673FCE51935C81100CF319C /* FourthViewController.xib in Resources */,
 				C673FCB21935C1C200CF319C /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -240,8 +289,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C673FCDA1935C7CD00CF319C /* SecondViewController.m in Sources */,
+				C673FCD11935C63C00CF319C /* YHCustomTabbar.m in Sources */,
+				C673FCDF1935C7DA00CF319C /* ThirdViewController.m in Sources */,
 				C673FCAC1935C1C200CF319C /* main.m in Sources */,
 				C673FCB01935C1C200CF319C /* YHAppDelegate.m in Sources */,
+				C673FCE41935C81100CF319C /* FourthViewController.m in Sources */,
+				C673FCD51935C7BE00CF319C /* FirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

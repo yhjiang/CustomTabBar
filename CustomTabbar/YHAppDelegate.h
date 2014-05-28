@@ -8,8 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
+@class YHCustomTabbar;
+
 @interface YHAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
+@property (strong, nonatomic) YHCustomTabbar *tabbarController;
 
 @end
