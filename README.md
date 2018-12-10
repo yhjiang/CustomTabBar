@@ -1,14 +1,14 @@
 
-##介绍
+## 介绍
 
 CustomTabBar是一款自定义的Tabbar，继承UITabbarViewController，可自定义tab图片，背景，以及选中背景。
 
 
-##截图
+## 截图
 <img  width="320" height="480" src="https://github.com/yhjiang/CustomTabBar/blob/master/ScreenShot.png"/> 
 
 
-##用法
+## 用法
 ```
 //初始化ViewController
     FirstViewController *home = [[FirstViewController alloc] init];
